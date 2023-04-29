@@ -1,8 +1,9 @@
 <?php
+	// git edit #2
 	//database connection details
-	$host = 'localhost';
-	$user = 'root';
-	$password = '';
+	$host = 'database-1.cmh63tphtgde.us-east-1.rds.amazonaws.com';
+	$user = 'admin';
+	$password = 'Password123!';
 	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
