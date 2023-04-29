@@ -1,7 +1,7 @@
 <?php
 	// git edit #2
 	//database connection details
-	$host = 'database-1.cmh63tphtgde.us-east-1.rds.amazonaws.com';
+	$host = '';
 	$user = 'admin';
 	$password = 'Password123!';
 	$database = 'gorgeous_cupcakes';
