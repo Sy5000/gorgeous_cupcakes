@@ -1,9 +1,9 @@
 <?php
-	// git edit #2
+// git update here
 	//database connection details
-	$host = '';
+	$host = 'gcdatabase.cn4uuyf6npxw.us-east-1.rds.amazonaws.com';
 	$user = 'admin';
-	$password = 'Password123!';
+	$password = 'Password123';
 	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
