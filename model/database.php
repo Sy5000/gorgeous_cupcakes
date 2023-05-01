@@ -1,10 +1,11 @@
 <?php
 // git update
 	//database connection details
-	// $host = 'gcdatabase.cn4uuyf6npxw.us-east-1.rds.amazonaws.com/3306';
-	// $user = 'admin';
-	// $password = 'Password123';
-	// $database = 'gcdatabase';
+	// $host = '';
+	// $user = '';
+	// $password = '';
+	// $database = '';
+
 	$dbhost = $_SERVER['RDS_HOSTNAME'];
 	$dbport = $_SERVER['RDS_PORT'];
 	$dbname = $_SERVER['RDS_DB_NAME'];
